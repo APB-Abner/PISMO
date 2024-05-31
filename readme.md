@@ -1,4 +1,5 @@
 # Projeto de Monitoramento de Qualidade da Água
+# Componete da Plataforma Integrada de Sustentabilidade Marinha e Oceânica(PISMO)
 
 Este projeto utiliza sensores para medir a qualidade da água, incluindo temperatura, pH, turbidez,oxigênio dissolvido, ORP (Potencial de Oxidação-Redução) e condutividade elétrica. Os dados coletados são exibidos em um display LCD e também podem ser monitorados via Serial Monitor.
 
@@ -61,7 +62,7 @@ Este projeto foi desenvolvido para monitorar a qualidade da água utilizando um 
 
 1. **Clone o repositório ou faça o download do código.**
    ```sh
-   git clone https://github.com/APB-Abner/(não esquece de mudar aqui).git
+   git clone https://github.com/APB-Abner/PISMO.git
    ```
 
 2. **Instale as bibliotecas necessárias:**
