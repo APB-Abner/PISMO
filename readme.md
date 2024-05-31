@@ -79,7 +79,7 @@ Este projeto foi desenvolvido para monitorar a qualidade da água utilizando um 
    - DFRobot PH
    - DFRobot EC10
 
-    Você pode instalar essas bibliotecas através do Gerenciador de Bibliotecas do Arduino IDE, as bibliotecas da DFRobot estão diponiveis no site da marca que pode ser acessado [aqui](https://www.dfrobot.com).
+    Você pode instalar essas bibliotecas através do Gerenciador de Bibliotecas do Arduino IDE, as bibliotecas da DFRobot estão diponiveis no site da marca que pode ser acessado [aqui](https://wiki.dfrobot.com/).
 
 3. **Abra o código no Arduino IDE.**
 
